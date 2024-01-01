@@ -30,6 +30,6 @@ Im an Engineering Student pursuing degree in BE IT from Shah and Anchor Kutchhi 
 
 <a href="http://www.github.com/Sameer16536"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer16536&stroke=10b981&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=10b981&currStreakLabel=0891b2&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
 
-<a href="http://www.github.com/Sameer16536"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sameer16536&bg_color=1c1917&color=10b981&line=0891b2&point=10b981&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 <a href="https://github.com/Sameer16536" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer16536&langs_count=10&title_color=0891b2&text_color=10b981&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
