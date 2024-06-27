@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sameer Marathe
 ======================================================================================================================================
 
-MERN Stack Web Developer
+FULL Stack Web Developer
 ------------------------
 
 Im an Engineering Student pursuing degree in BE IT from Shah and Anchor Kutchhi Engineering College. Passionate Web Developer with a knack for MERN stack . I thrive on turning ideas into reality through code and creative problem-solving. Constantly exploring new technologies and seeking to enhance my skills, I am on a journey to make a meaningful impact in the world of Web Development.
