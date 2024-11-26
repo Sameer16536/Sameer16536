@@ -9,7 +9,6 @@ Im an Engineering Student pursuing degree in BE IT from Shah and Anchor Kutchhi 
 * 🌍  I'm based in Mumbai
 * 🖥️  See my portfolio at [https://sameer-dev11.netlify.app/](http://https://sameer-dev11.netlify.app/)
 * ✉️  You can contact me at [sameermarathe15@gmail.com](mailto:sameermarathe15@gmail.com)
-* 🧠  I'm learning Web sockets and WebRTC
 * 🤝  I'm open to collaborating on Full Stack , Front-End , Backend Projects
 * ⚡  Im a Gamer and a Guitarist too
 
